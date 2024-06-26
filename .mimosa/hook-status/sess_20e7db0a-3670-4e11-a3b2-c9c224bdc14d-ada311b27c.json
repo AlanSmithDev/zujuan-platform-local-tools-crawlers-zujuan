@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "mimosa-hook-status/v1",
+  "recordedAt": "2026-09-29T14:08:16.135Z",
+  "sessionId": "sess_20e7db0a-3670-4e11-a3b2-c9c224bdc14d",
+  "event": "PostToolUse",
+  "toolName": "Write",
+  "file": "E:\\code\\business\\zujuan-platform\\crawlers\\inspect_gaokao_updates.py",
+  "outcome": "inconclusive",
+  "coverage": "partial",
+  "findingCount": 0,
+  "durationMs": 12,
+  "hostState": "hook_complete",
+  "reportHint": ".mimosa/reports/"
+}
